@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+Hi@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 
 :root {
 
@@ -2397,6 +2397,12 @@ p{
     text-decoration: none;
     color: #39FF14;
     /* choose your preferred color */
+}
+@media screen and (max-width: 600px) {
+    .projectk {
+        width: 250px;
+     height:120px
+    }
 }
 
 
